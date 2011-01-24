@@ -43,6 +43,7 @@ class Widget_Movie_player extends Widgets
             return $options;
 	}
 
+        
         private function convert_videos($string, $options) {
             
             $rules = array(
